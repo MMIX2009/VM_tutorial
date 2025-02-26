@@ -1,1 +1,5 @@
 streamlit
+matplotlib
+Pillow
+pandas
+numpy
